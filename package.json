@@ -7,7 +7,7 @@
   },
   "bin": {
     "download": "./index.js"
-  }
+  },
   "author": "",
   "license": "ISC",
   "description": ""

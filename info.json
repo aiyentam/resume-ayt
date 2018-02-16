@@ -7,7 +7,7 @@
         "html",
         "css", 
         "javascript", 
-        "vue.js"
+        "vue.js",
         "node.js"
     ]
 }

@@ -1,5 +1,5 @@
 {
-  "name": "ayt-resume",
+  "name": "aiyentam-resume",
   "version": "1.0.6",
   "main": "index.js",
   "scripts": {
@@ -10,5 +10,6 @@
   },
   "author": "",
   "license": "ISC",
-  "description": "Author: Ai Yen Tam"
+  "description": "Author: Ai Yen Tam",
+  "dependencies": {}
 }
